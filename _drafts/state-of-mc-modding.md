@@ -32,3 +32,11 @@ MCPC-Plus
 	https://github.com/MinecraftPortCentral/MCPC-Plus
 
 	1.6.4
+
+http://www.coros.us/mods/
+http://www.reddit.com/r/Minecraft/comments/265kxb/what_mods_for_a_vanilla_player/chnvzzs
+
+http://www.minecraftforum.net/
+http://www.planetminecraft.com/
+http://modlist.mcf.li/
+http://minecraft.curseforge.com/

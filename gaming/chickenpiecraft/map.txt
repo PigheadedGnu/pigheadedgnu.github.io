@@ -34,3 +34,18 @@ Label,   40,  375, Spawn           ,           ,           , 42
 Label,-3500, -500, Mesa            ,           ,           , 31
 Label,  551,  705, Stronghold #2   ,           ,           , 9
 Label, 3500, 3500, Ice Spikes      ,           ,           , 47
+
+Label, 1215,  355, Plains Village  ,           ,           , 0
+Label,-1200, 2900, Desert Village  ,           ,           , 1
+Label, -850, 2250, Desert Village  ,           ,           , 1
+
+Label,  840,  665, Adapt/NovaZephyr,           ,           , 10
+Label, -570, -510, Dcboak          ,           ,           , 10
+Label, 1150, -200, Fergus          ,           ,           , 10
+Label, 1752,  790, Gibraltar       ,           ,           , 10
+Label, -541,  198, Haltorn         ,           ,           , 10
+Label,  400,-2200, Perceptive      ,           ,           , 10
+Label, -100, 1500, Redactiv        ,           ,           , 10
+Label,  357,  -94, Ronelia         ,           ,           , 10
+Label, 1500,  400, Siptrunk        ,           ,           , 10
+Label,  380, -380, Vindicraft      ,           ,           , 10

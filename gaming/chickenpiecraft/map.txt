@@ -1,6 +1,6 @@
 // Map settings:
 // =============
-range = 1600
+range = 4000
 title = Chickenpie Craft Map
 blurb = 
 x = 0

@@ -1,0 +1,36 @@
+// Map settings:
+// =============
+range = 1600
+title = Chickenpie Craft Map
+blurb = 
+x = 0
+z = 0
+showorigin = false
+showscale = true
+showcoordinates = false
+hidelabelsabove = 0
+showlabelsbelow = 3
+icons = 
+oceansrc = 
+oceantheme =
+
+
+// Map locations:
+// ==============
+//
+// Format:
+// Type,  x,    z, Description     , Owner     , href      , IconIndex
+Label,  760, -880, Ocean Monument  ,           ,           , 46
+Label,  240, 1650, Ocean Monument  ,           ,           , 46
+Label,  100, 1100, Ocean Monument  ,           ,           , 46
+Label, 2650, 1580, Ocean Monument  ,           ,           , 46
+Label, 3140, 1480, Ice Plains      ,           ,           , 35
+Label,  400,  500, Swamp           ,           ,           , 23
+Label, -850, 2250, Desert          ,           ,           , 34
+Label, -650, 2000, Savanna         ,           ,           , 29
+Label, 1665, 1565, Mega Taiga      ,           ,           , 27
+Label, 2625,  775, Jungle          ,           ,           , 25
+Label,   40,  375, Spawn           ,           ,           , 42
+Label,-3500, -500, Mesa            ,           ,           , 31
+Label,  551,  705, Stronghold #2   ,           ,           , 9
+Label, 3500, 3500, Ice Spikes      ,           ,           , 47

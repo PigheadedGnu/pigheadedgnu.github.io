@@ -17,7 +17,8 @@ oceantheme =
 
 // Map locations:
 // ==============
-//
+// Icon Legend Example
+// https://71a6d35cb5b47bf734e8f62f06cdded5ab2489c1.googledrive.com/host/0B35KCzsTLKY1dTJreWVWdzNNa28/index.html?src=legend.txt
 // Format:
 // Type,  x,    z, Description     , Owner     , href      , IconIndex
 Label,  760, -880, Ocean Monument  ,           ,           , 46

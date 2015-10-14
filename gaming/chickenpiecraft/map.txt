@@ -50,3 +50,5 @@ Label, -100, 1500, Redactiv        ,           ,           , 10
 Label,  357,  -94, Ronelia         ,           ,           , 10
 Label, 1500,  400, Siptrunk        ,           ,           , 10
 Label,  380, -380, Vindicraft      ,           ,           , 10
+
+Label,    0,    0, Train Hub.      ,           ,           , 11

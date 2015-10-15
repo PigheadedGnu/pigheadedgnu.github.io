@@ -46,9 +46,14 @@ Label, 1150, -200, Fergus          ,           ,           , 10
 Label, 1752,  790, Gibraltar       ,           ,           , 10
 Label, -541,  198, Haltorn         ,           ,           , 10
 Label,  400,-2200, Perceptive      ,           ,           , 10
+Label,  -50, -450, PigheadedGnu    ,           ,           , 10
 Label, -100, 1500, Redactiv        ,           ,           , 10
 Label,  357,  -94, Ronelia         ,           ,           , 10
 Label, 1500,  400, Siptrunk        ,           ,           , 10
 Label,  380, -380, Vindicraft      ,           ,           , 10
 
 Label,    0,    0, Train Hub.      ,           ,           , 11
+Label, 2500,    0, Eastern Terminus,           ,           , 11
+Label,    0, 2500, Southern Terminus,          ,           , 11
+Label,-2500,    0, Western Terminus,           ,           , 11
+Label,    0,-2500, Northern Terminus,          ,           , 11

@@ -1,4 +1,4 @@
-icons = test_icons.png
+icons = http://i.imgur.com/5PCHNpv.png
 Label,2000,2000,64,,,64
 Label,1800,1800,65,,,65
 Label,1600,1600,66,,,66

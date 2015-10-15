@@ -1,3 +1,4 @@
+icons = https://pigheadedgnu.github.io/gaming/chickenpiecraft/test_icons.png
 Label,2000,2000,64,,,64
 Label,1800,1800,65,,,65
 Label,1600,1600,66,,,66

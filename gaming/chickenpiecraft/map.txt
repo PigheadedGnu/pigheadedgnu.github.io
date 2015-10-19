@@ -36,6 +36,7 @@ Label,-3500, -500, Mesa            ,           ,           , 31
 Label,  551,  705, Stronghold #2   ,           ,           , 9
 Label, 3500, 3500, Ice Spikes      ,           ,           , 47
 
+Label, 2180,-1715, Witch Hut       ,           ,           , 3
 Label, 1215,  355, Plains Village  ,           ,           , 0
 Label,-1200, 2900, Desert Village  ,           ,           , 1
 Label, -850, 2250, Desert Village  ,           ,           , 1

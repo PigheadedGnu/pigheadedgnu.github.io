@@ -11,9 +11,8 @@ showcoordinates = true
 hidelabelsabove = 0
 showlabelsbelow = 3
 icons = 
-oceansrc = 
-oceantheme =
-
+oceansrc = http://pigheadedgnu.github.io/gaming/chickenpiecraft/ocean-mask.png
+oceantheme = darkseas
 
 // Map locations:
 // ==============
@@ -54,7 +53,7 @@ Label,  357,  -94, Ronelia         ,           ,           , 10
 Label, 1500,  400, Siptrunk        ,           ,           , 10
 Label,  380, -380, Vindicraft      ,           ,           , 10
 
-Label,    0,    0, Train Hub.      ,           ,           , 11
+Label,    0,    0, Train Hub       ,           ,           , 11
 Label, 2500,    0, Eastern Terminus,           ,           , 11
 Label,    0, 2500, Southern Terminus,          ,           , 11
 Label,-2500,    0, Western Terminus,           ,           , 11

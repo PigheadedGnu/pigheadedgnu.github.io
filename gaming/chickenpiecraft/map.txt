@@ -45,6 +45,7 @@ Label, -850, 2250, Desert Village  ,           ,           , 1
 Label, 1215,  355, Plains Village  ,           ,           , 0
 Label, 1580, 2280, Plains Village  ,           ,           , 0
 Label, 3400,-1900, Plains Village  ,           ,           , 0
+Label, 1000, 3100, Plains Village  ,           ,           , 0
 
 // Bases
 Label,  840,  665, Adapt/NovaZephyr,           ,           , 10

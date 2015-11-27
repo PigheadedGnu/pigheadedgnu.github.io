@@ -49,17 +49,28 @@ Label, 1000, 3100, Plains Village  ,           ,           , 0
 
 // Bases
 Label,  840,  665, Adapt/NovaZephyr,           ,           , 10
+// Label,     ,     , Alimforever     ,           ,           , 10
+// Label,     ,     , BarryDem/Xenomit,           ,           , 10
+// Label,     ,     , Daydrifter      ,           ,           , 10
 Label, -570, -510, dcbaok          ,           ,           , 10
+// Label,     ,     , Daecher         ,           ,           , 10
 Label, 1150, -200, Fergus          ,           ,           , 10
 Label, 1752,  790, Gibraltar       ,           ,           , 10
 Label, -541,  198, Haltorn         ,           ,           , 10
+// Label,     ,     , JavaOnLunch     ,           ,           , 10
+// Label,     ,     , jocelynrosenthal,           ,           , 10
+// Label,     ,     , lokkenmor       ,           ,           , 10
 Label,-1170, -170, Martinkungs     ,           ,           , 10
 Label,  400,-2200, Perceptive      ,           ,           , 10
 Label,  -50, -450, PigheadedGnu    ,           ,           , 10
 Label, -100, 1500, Redactiv        ,           ,           , 10
+// Label,     ,     , Riptieron       ,           ,           , 10
 Label,  357,  -94, Ronelia         ,           ,           , 10
 Label, 1500,  400, Siptrunk        ,           ,           , 10
+// Label,     ,     , Squizzl3        ,           ,           , 10
+// Label, -570, -510, snarglekitten   ,           ,           , 10
 Label,  380, -380, Vindicraft      ,           ,           , 10
+// Label,     ,     , yoakenashi      ,           ,           , 10
 
 // Infrastructure
 Label,   40,  375, Portio Village (Spawn),     ,           , 42

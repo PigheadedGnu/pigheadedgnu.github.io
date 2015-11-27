@@ -20,26 +20,31 @@ oceantheme = darkseas
 // https://71a6d35cb5b47bf734e8f62f06cdded5ab2489c1.googledrive.com/host/0B35KCzsTLKY1dTJreWVWdzNNa28/index.html?src=legend.txt
 // Format:
 // Type,  x,    z, Description     , Owner     , href      , IconIndex
+
+// Biomes
+Label, -850, 2250, Desert          ,           ,           , 34
+Label, 3140, 1480, Ice Plains      ,           ,           , 35
+Label, 3500, 3500, Ice Spikes      ,           ,           , 47
+Label, 2625,  775, Jungle          ,           ,           , 25
+Label, 1665, 1565, Mega Taiga      ,           ,           , 27
+Label,-3500, -500, Mesa            ,           ,           , 31
 Label,  760, -880, Ocean Monument  ,           ,           , 46
 Label,  240, 1650, Ocean Monument  ,           ,           , 46
 Label,  100, 1100, Ocean Monument  ,           ,           , 46
 Label, 2650, 1580, Ocean Monument  ,           ,           , 46
-Label, 3140, 1480, Ice Plains      ,           ,           , 35
-Label,  400,  500, Swamp           ,           ,           , 23
-Label, -850, 2250, Desert          ,           ,           , 34
 Label, -650, 2000, Savanna         ,           ,           , 29
-Label, 1665, 1565, Mega Taiga      ,           ,           , 27
-Label, 2625,  775, Jungle          ,           ,           , 25
-Label,   40,  375, Spawn           ,           ,           , 42
-Label,-3500, -500, Mesa            ,           ,           , 31
-Label,  551,  705, Stronghold #2   ,           ,           , 9
-Label, 3500, 3500, Ice Spikes      ,           ,           , 47
+Label,  400,  500, Swamp           ,           ,           , 23
 
+// Structures
+Label,  551,  705, Stronghold #2   ,           ,           , 9
 Label, 2180,-1715, Witch Hut       ,           ,           , 3
-Label, 1215,  355, Plains Village  ,           ,           , 0
+
+// Villages
 Label,-1200, 2900, Desert Village  ,           ,           , 1
 Label, -850, 2250, Desert Village  ,           ,           , 1
+Label, 1215,  355, Plains Village  ,           ,           , 0
 
+// Bases
 Label,  840,  665, Adapt/NovaZephyr,           ,           , 10
 Label, -570, -510, dcbaok          ,           ,           , 10
 Label, 1150, -200, Fergus          ,           ,           , 10
@@ -53,6 +58,8 @@ Label,  357,  -94, Ronelia         ,           ,           , 10
 Label, 1500,  400, Siptrunk        ,           ,           , 10
 Label,  380, -380, Vindicraft      ,           ,           , 10
 
+// Infrastructure
+Label,   40,  375, Spawn           ,           ,           , 42
 Label,    0,    0, Train Hub       ,           ,           , 11
 Label, 2500,    0, Eastern Terminus,           ,           , 11
 Label,    0, 2500, Southern Terminus,          ,           , 11

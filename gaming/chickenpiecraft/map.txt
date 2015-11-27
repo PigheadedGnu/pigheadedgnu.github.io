@@ -59,7 +59,7 @@ Label, 1500,  400, Siptrunk        ,           ,           , 10
 Label,  380, -380, Vindicraft      ,           ,           , 10
 
 // Infrastructure
-Label,   40,  375, Spawn           ,           ,           , 42
+Label,   40,  375, Portio Village (Spawn),     ,           , 42
 Label,    0,    0, Train Hub       ,           ,           , 11
 Label, 2500,    0, Eastern Terminus,           ,           , 11
 Label,    0, 2500, Southern Terminus,          ,           , 11

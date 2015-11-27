@@ -54,6 +54,7 @@ Label,  840,  665, Adapt/NovaZephyr,           ,           , 10
 // Label,     ,     , Daydrifter      ,           ,           , 10
 Label, -570, -510, dcbaok          ,           ,           , 10
 // Label,     ,     , Daecher         ,           ,           , 10
+// Label,     ,     , Eisenia         ,           ,           , 10
 Label, 1150, -200, Fergus          ,           ,           , 10
 Label, 1752,  790, Gibraltar       ,           ,           , 10
 Label, -541,  198, Haltorn         ,           ,           , 10
